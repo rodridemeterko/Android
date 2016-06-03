@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PeaceDriveApp</string>
+    <string name="login_user">User ID</string>
+    <string name="login_passw">Password</string>
+    <string name="login_button">Login</string>
+    <string name="env_but">Enviar medição</string>
+
+</resources>
